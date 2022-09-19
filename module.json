@@ -1,15 +1,15 @@
 {
-    "name": "jam-and-jax-npc-ancestries",
-    "title": "Jam and Jax's NPC Ancestry Abilities",
-    "description": "Add these ancestry and heritage abilities to any of the Jam and Jax NPCs to give them ancestry specific flavor and function. ",
-    "version": "1.0",
+    "name": "jam-and-jax-undead-ancestries",
+    "title": "Jam and Jax's Undead NPC Ancestry Abilities",
+    "description": "Add these spooky ancestries to any of the Jam and Jax NPCs to turn them into the Undead. ",
+    "version": "0.1",
     "author": "Jamzilla (Jamie Trollop) and Jax (Paul Steen)",
     "minimumCoreVersion": "9.269",
     "compatibleCoreVersion": "9.269",
     "packs": [
         {
-            "name": "jam-and-jax-npc-ancestry",
-            "label": "Jam and Jax NPC Ancestry Abilities",
+            "name": "jam-and-jax-undead-ancestries",
+            "label": "Jam and Jax Undead NPC Ancestry Abilities",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item"
@@ -18,7 +18,7 @@
    "system": [
     "pf2e"
   ],
-  "minimumSystemVersion": "3.12.2.10",
+  "minimumSystemVersion": "3.13.1.12",
   "url": "https://github.com/Jax-PF2/349501010",
   "manifest": "https://raw.githubusercontent.com/Jax-PF2/349501010/master/module.json",
   "download": "https://github.com/Jax-PF2/349501010/archive/refs/heads/main.zip"
