@@ -1,7 +1,7 @@
 {
   "title": "Jam and Jax's NPC Ancestry Abilities",
   "description": "Add these ancestry and heritage abilities to any of the Jam and Jax NPCs to give them ancestry specific flavor and function.",
-  "version": "1.6",
+  "version": "1.7",
   "packs": [
     {
       "name": "jam-and-jax-npc-ancestry",
@@ -13,9 +13,9 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/Jax-PF2/349501010",
-  "manifest": "https://raw.githubusercontent.com/Jax-PF2/349501010/master/module.json",
-  "download": "https://github.com/Jax-PF2/349501010/archive/refs/heads/main.zip",
+  "url": "https://github.com/0x4f625a/ancestries",
+  "manifest": "https://raw.githubusercontent.com/0x4f625a/ancestries/main/module.json",
+  "download": "https://github.com/0x4f625a/ancestries/archive/refs/heads/main.zip",
   "id": "jam-and-jax-npc-ancestries",
   "authors": [
     {
@@ -29,14 +29,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "7.2.3",
+          "minimum": "6.12.4",
           "verified": "7.2.3"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "13.346",
+    "minimum": "12.328",
     "verified": "13.346"
   }
 }
